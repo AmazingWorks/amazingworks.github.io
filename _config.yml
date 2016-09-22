@@ -10,12 +10,12 @@ description: "Performance e SEO"
 # Team names, titles and social links
 people:
 - name: Ezequiel Bertti
-  pic: 1
+  pic: ebertti
   position: Arquiteto de Sistemas
   social:
     - title: twitter
       url: https://twitter.com/ebertti
-    - title: GitHub
+    - title: github
       url: https://github.com/ebertti
     - title: stack-overflow
       url: https://stackoverflow.com/users/192684/ezequiel-bertti
